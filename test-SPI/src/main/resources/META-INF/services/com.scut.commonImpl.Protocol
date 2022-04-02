@@ -1,0 +1,2 @@
+http=com.scut.commonImpl.HttpProtocol
+tcp=com.scut.commonImpl.TcpProtocol
